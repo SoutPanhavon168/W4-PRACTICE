@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'ui/providers/theme_color_provider.dart';
 import 'ui/screens/settings/settings_screen.dart';
 import 'ui/screens/downloads/downloads_screen.dart';

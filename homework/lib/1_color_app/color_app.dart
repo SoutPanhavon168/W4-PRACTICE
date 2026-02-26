@@ -117,7 +117,7 @@ class ColorTap extends StatelessWidget {
         return GestureDetector(
           onTap: () {
             if (isRed) {
-              colorService.incrementBlueTapCount();
+              colorService.incrementRedTapCount();
             } else {
               colorService.incrementBlueTapCount();
             }
